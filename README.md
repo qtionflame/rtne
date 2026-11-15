@@ -41,5 +41,5 @@ rtne Hello
 ## Rice 编译器生成exe文件
 
 ```bat
-rice hello.ri -o hello.exe
+rtne hello.rtne -o hello.exe
 ```
