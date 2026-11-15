@@ -1,0 +1,5 @@
+use rtne.io;
+
+func main() {
+	print("Hello, naxe");
+}
