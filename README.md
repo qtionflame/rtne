@@ -25,15 +25,6 @@ rtne 是一门开源的编程语言，于 2021 年 8 月 10 日正式启动，�
 [Hello.rtne](hello.md)
 
 ```Neon
-// Screw 100
-// BitTea 100
-// kone 100
-// Cava 100
-// CppScript 100
-// Neon
-// NaxeLamp
-// rtne
-// Otne > NeonLang 1.0 > NaxeLamp > Rice / Haxe / 2021-8-10
 
 import rtne.io
 func main() {
